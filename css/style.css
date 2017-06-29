@@ -283,3 +283,7 @@ li a {
 .sitename{
     margin-top: 20px;
 }
+article {
+   margin-left: 15px;
+    margin-right: 15px;
+}
