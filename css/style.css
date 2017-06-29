@@ -54,7 +54,7 @@ a {  color: #b13131;  text-decoration: none; }
 /* body */
 @import url(https://fonts.googleapis.com/css?family=Montserrat);
 body {
-    background: url(../img/Content/page_t.png);
+    background: rgba(238, 238, 238, 0.24);
 }
 
 .container {
@@ -286,4 +286,8 @@ li a {
 article {
    margin-left: 15px;
     margin-right: 15px;
+}
+
+.contacts {
+    margin-top: 15px;
 }
